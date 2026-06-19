@@ -60,10 +60,17 @@
 **Hours spent:** 6
 
 
-### Day 0 — June 19, 2026 (Setup)
+### Day 2 — June 19, 2026 
 **What I did:**
+Completed sql upto functions of null string joins and set and numeric functions
+solved 3 problems of sliding window and started os and networks somewhat
+**LeetCode solved today:** 4
+**GitHub commits today:** 6
+**Hours spent:** 5
 
-**LeetCode solved today:** 0
-**GitHub commits today:** 1
-**Hours spent:** 2
-**Energy level (1-10):** —
+
+### Day 3 — June 20, 2026 
+**What I did:**
+**LeetCode solved today:** 
+**GitHub commits today:** 
+**Hours spent:** 
