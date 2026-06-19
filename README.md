@@ -9,7 +9,7 @@
 
 | Metric | Current | Target |
 |--------|---------|--------|
-| **LeetCode Solved** | 13 | 220+ |
+| **LeetCode Solved** | 16 | 220+ |
 | **Days Completed** | 1/70 | 70 |
 | **Hard Problems** | 2 | 40+ |
 | **Projects Deployed** | 0 | 3 |
