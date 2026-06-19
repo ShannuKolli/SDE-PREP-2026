@@ -9,9 +9,9 @@
 
 | Metric | Current | Target |
 |--------|---------|--------|
-| **LeetCode Solved** | 0 | 220+ |
-| **Days Completed** | 0/70 | 70 |
-| **Hard Problems** | 0 | 40+ |
+| **LeetCode Solved** | 13 | 220+ |
+| **Days Completed** | 1/70 | 70 |
+| **Hard Problems** | 2 | 40+ |
 | **Projects Deployed** | 0 | 3 |
 | **Mock Interviews** | 0 | 7+ |
 | **LLD Designs** | 0 | 3 |
