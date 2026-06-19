@@ -45,3 +45,25 @@
 
 ---
 -->
+
+
+
+
+### Day 1 — June 18, 2026 
+**What I did:**
+1. Solved the dsa topics of ARRAYS HASHING AND TWO POINTERS
+2. Started Sql and completed till the DML 
+
+
+**LeetCode solved today:** 16
+**GitHub commits today:** 5
+**Hours spent:** 6
+
+
+### Day 0 — June 19, 2026 (Setup)
+**What I did:**
+
+**LeetCode solved today:** 0
+**GitHub commits today:** 1
+**Hours spent:** 2
+**Energy level (1-10):** —
