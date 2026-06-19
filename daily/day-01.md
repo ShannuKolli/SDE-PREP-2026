@@ -26,3 +26,8 @@ EOF
 git add dsa/arrays-hashing/
 git commit -m "feat(dsa): add arrays-hashing module — 13 problems solved (LC 1, 49, 128, 238, 36, 11, 15, 42, 76, 167, 560, 974, 209)"
 git push
+
+
+Completed 30 percent of SQL 
+
+THAT IS IT!!!!!
